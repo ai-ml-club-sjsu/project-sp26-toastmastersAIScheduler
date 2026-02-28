@@ -1,0 +1,14 @@
+{
+  "required_roles": [
+    "Toastmaster",
+    "Topicsmaster",
+    "General Evaluator",
+    "Timer",
+    "Grammarian",
+    "Ah-Counter"
+  ],
+  "speakers": 3,
+  "evaluators": 3,
+  "avoid_same_role_within_days": 30,
+  "max_assignments_per_person_per_meeting": 1
+}
