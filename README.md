@@ -45,7 +45,7 @@ Toastmasters meetings run on time, preparation, and people showing up ready. Yet
 ## Repository Structure
 
 ```
-project-fa25-trialscribe/
+project-sp26-toastmastersAIScheduler/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
