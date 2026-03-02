@@ -1,0 +1,6 @@
+{
+  "project_name": "Toastmasters AI Scheduler",
+  "purpose": "Automatically assign meeting roles and ensure fair rotation of roles",
+  "short_description": "The Toastmasters AI Scheduler is a multi-agent system built with LangChain and OpenAI to automate meeting role assignments. It analyzes member availability, experience, preferences, and past participation to generate fair, conflict-free schedules. The system enforces hard constraints such as required roles, assignment limits, and avoiding repeated roles within a set timeframe. It also adapts to cancellations by automatically reassigning roles while maintaining fairness. Integrated with Google Sheets for transparency and SQLite for history tracking, it can generate intelligent role reminders and confirmations. The project reduces manual scheduling effort, improves reliability, and ensures balanced participation across club meetings.",
+  "semester": "sp26"
+}
